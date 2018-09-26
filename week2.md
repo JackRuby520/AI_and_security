@@ -6,7 +6,7 @@ Created on Wed Sep 26 09:54:30 2018
 
 @author: user
 """
-
+```
 import numpy as np
 from sklearn.linear_model import LinearRegression
 
@@ -26,8 +26,10 @@ print(lm.coef_)
 
 ### 印出截距
 print(lm.intercept_ )
+```
 
-'''結果
+```結果
 [[3.73788546]]
 [-36.36123348]
-'''
+```
+
