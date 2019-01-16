@@ -6,4 +6,4 @@ tfnumpy.ipynb
 
 
 ### 期末報告
-- [PPT - CycleGAN.pptx](/CycleGAN.pptx.pptx)
+- [PPT - CycleGAN.pptx](CycleGAN.pptx)
